@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhi Chen (陈志)"
-description              : "Researcher in Shanghai AI Lab, OpenDialogLab Team. Focusing on  Dialog System, LLM and Reinforcement Learning."
+description              : "Researcher in Shanghai AI Lab. Focusing on  Dialog System, LLM and Reinforcement Learning."
 repository               : "donmaclean7/donmaclean7.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "donmaclean7"
+  github           : "wowcz"
   google_plus      :
   keybase          :
   instagram        :
